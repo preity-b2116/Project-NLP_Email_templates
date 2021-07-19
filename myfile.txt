@@ -1,0 +1,595 @@
+
+
+2021-07-08 22:29:32.174787
+You:gifts
+Robo:
+Hey [Prospect name],
+We've all gotten gifts we wish had never been placed on this earth. But this gift I have for you? It's not one of 'em.
+If you buy anytime between now and December 31, I can offer you [insert discount]. As simple as that!
+If you're interested in learning more, give me a call or schedule some time on my calendar.
+And if you'd rather go with Mona's sweater and get back to me after the first of the year -- that's OK too.
+Happy Holidays,
+[Your name]
+
+You:attention
+Robo:
+Hi [Prospect],
+As I've gotten to know [their company] better, I've come to believe that our aligns well with both your company's immediate needs and ultimate goals.
+We can offer [types of solutions] that will allow you to solve [specific problems they're facing]. We use different tactics than our competitors, including [differentiators from other companies in your space].
+We've consistently been recognized for our exceptional outcomes and service, like [specific accomplishments you can reference]. We were able to help one of our customers [reference a specific, relevant customer story].
+Given how well our [product or service] suits your needs, I think we could do some great work together.
+[Engaging question to wrap things up]?
+Best,
+[Your Name]
+
+You:sales goal
+Robo:
+Hi [prospect name],
+I checked out your website, and it looks like you might be trying to [accomplish X specific goal]. Without making any assumptions about your business goals, I believe [Y] might play a pivotal role in your success.
+If you’re unfamiliar with [company], our solution helps businesses in [prospect company's] space with three main goals:
+
+[Goal #1]
+[Goal #2]
+[Goal #3]
+
+Are you free in the next few days for a call to discuss [prospect company's] strategy for [business area]?
+Best,
+[Your name]
+
+You:wanted to reach
+Robo:
+Hi [prospect name],
+Looks like we might not be meant for each other. But I still wanted to reach out to you one last time. I have a few suggestions on how [prospect company] can [accomplish X and Y]. If I don't hear back, I'll assume that the timing isn't right.
+In the meantime, here are two resources I thought you might find valuable because [reason why they're relevant]:
+
+[Link #1]
+[Link #2]
+
+Best,
+[Your name]
+
+You:role
+Robo:
+Hey [Prospect],
+Thanks so much for accepting my request on LinkedIn. Quite excited to follow your professional growth in the next few years!
+I’d love to hear more about what you do in your role. I’m in [industry], and I think [product] can help you achieve [X, Y, and Z] in your company. I was once a [their current role], and I know how hard it is to [achieve a goal related to your product]. Do you have ten minutes this week to chat?
+Best,
+[your name]
+
+You:friend
+Robo:
+Hi [Customer],
+Thank you so much for referring your friend [Friend's name] to us. I've enjoyed getting to know them and doing business with them. I'm so happy that you've stuck around with us for this long and brought your friend to share the experience with you.
+We're lucky to have you. Thanks again for being such a fantastic customer! As a token of our appreciation, here's a [coupon/discount] for you to enjoy.
+Cheers,
+[Your name]
+
+You:clearly demonstrated
+Robo:
+[Customer],
+I am so sorry to hear that you have had such a poor experience that you no longer want to work with us.
+Customer satisfaction is always a number one priority for us. I'm deeply sorry that that wasn't clearly demonstrated to you.
+As much as I hate to see you go, I completely understand how upset you must feel. I apologize again for any trouble we may have caused you. Good luck with your business, and I wish you all the best.
+Let me know if you have any more questions, comments, or concerns.
+Best,
+[Your name]
+
+You:connect with you again
+Robo:
+Hi [prospect name],
+Just wanted to shoot you a quick note to say I really appreciate your business. Looking at [my coworker’s notes, my records, your usage data], you’ve managed to accomplish a lot since we started working together:
+
+Accomplishment #1, e.g. “Hired 10 new people”
+Accomplishment #2, e.g. “Doubled average number of applications”
+Accomplishment #3, e.g. “Increased number of employee referrals by 20%”
+
+Let me know if there’s anything more I — or my team — can do to support you.
+Have a great day,
+[Your name]
+
+You:options
+Robo:
+Hi [Customer],
+I've processed your refund, and you should expect to see the amount appear in your bank account in the next couple of business days.
+I'm sorry to hear that you didn't love your new product. I completely understand that it isn't for everyone.
+If you're still on the search for the right choice for you, let me know. I'd be happy to talk you through some of our other options and see if any of them feel like a good fit. Thank you for your time and for giving us a try.
+I hope to connect with you again in the near future.
+Best,
+[Your name]
+
+You:connect with you 
+Robo:
+Hi [prospect name],
+Maybe I should have brought my shamrock to work today — I wasn't able to connect with you at [planned time]. I was planning on covering [topic #1] and [topic #2]. To catch you up, here are some helpful resources:
+
+[Link #1]
+[Link #2]
+
+If you'd like to try again, here's a link to my calendar: [Link].
+Cheers,[Your name]
+
+You:connect with you again
+Robo:
+Hi [prospect name],
+Just wanted to shoot you a quick note to say I really appreciate your business. Looking at [my coworker’s notes, my records, your usage data], you’ve managed to accomplish a lot since we started working together:
+
+Accomplishment #1, e.g. “Hired 10 new people”
+Accomplishment #2, e.g. “Doubled average number of applications”
+Accomplishment #3, e.g. “Increased number of employee referrals by 20%”
+
+Let me know if there’s anything more I — or my team — can do to support you.
+Have a great day,
+[Your name]
+
+You:connect with you again
+Robo:
+Hi [prospect name],
+Just wanted to shoot you a quick note to say I really appreciate your business. Looking at [my coworker’s notes, my records, your usage data], you’ve managed to accomplish a lot since we started working together:
+
+Accomplishment #1, e.g. “Hired 10 new people”
+Accomplishment #2, e.g. “Doubled average number of applications”
+Accomplishment #3, e.g. “Increased number of employee referrals by 20%”
+
+Let me know if there’s anything more I — or my team — can do to support you.
+Have a great day,
+[Your name]
+
+You:connect with you again in
+Robo:
+Hi [Customer],
+I've processed your refund, and you should expect to see the amount appear in your bank account in the next couple of business days.
+I'm sorry to hear that you didn't love your new product. I completely understand that it isn't for everyone.
+If you're still on the search for the right choice for you, let me know. I'd be happy to talk you through some of our other options and see if any of them feel like a good fit. Thank you for your time and for giving us a try.
+I hope to connect with you again in the near future.
+Best,
+[Your name]
+
+You:amount appear
+Robo:
+Hi [Customer],
+I've processed your refund, and you should expect to see the amount appear in your bank account in the next couple of business days.
+I'm sorry to hear that you didn't love your new product. I completely understand that it isn't for everyone.
+If you're still on the search for the right choice for you, let me know. I'd be happy to talk you through some of our other options and see if any of them feel like a good fit. Thank you for your time and for giving us a try.
+I hope to connect with you again in the near future.
+Best,
+[Your name]
+
+You:testimonial
+Robo:
+[CUSTOMER],
+We hope you're enjoying using [PRODUCT/SERVICE]. 
+Now that you've had a few weeks to try the product, we'd love to know what you think. You can click this link to share some of your thoughts about using [PRODUCT] that we might feature on our website.
+Your feedback means a lot to us! Thanks for being a loyal [COMPANY] customer.
+Regards,
+[YOUR NAME]
+
+You:article
+Robo:
+Hey [Prospect],Per our conversation, here is the link to the article I suggested you read. Based on the current challenge you're dealing with around X, I believe this will be helpful.
+[Link]
+While I think it may make sense for you to look at our service eventually, this article should allow you to fix this current challenge quickly and on your own.Regards,[Your name]
+
+You:offering helpful
+Robo:
+[First name],
+Your latest announcement this week about [news] got me thinking.
+I found an article on [related topic] that may be useful to you as your company progresses.
+Here’s the link to read it: [article link]
+Are you currently working on improving [related business value]? I have some more insight to share that could be valuable.
+Hope you find this article helpful.
+Best,
+[Your name]
+
+You:offering helpful things
+Robo:
+[First name],
+Your latest announcement this week about [news] got me thinking.
+I found an article on [related topic] that may be useful to you as your company progresses.
+Here’s the link to read it: [article link]
+Are you currently working on improving [related business value]? I have some more insight to share that could be valuable.
+Hope you find this article helpful.
+Best,
+[Your name]
+
+You:offering helpful bacac acjacblna
+Robo:
+[First name],
+Your latest announcement this week about [news] got me thinking.
+I found an article on [related topic] that may be useful to you as your company progresses.
+Here’s the link to read it: [article link]
+Are you currently working on improving [related business value]? I have some more insight to share that could be valuable.
+Hope you find this article helpful.
+Best,
+[Your name]
+
+You:first conversation
+Robo:
+Hey [Prospect],Per our conversation, I do not think you are a fit for our services at this time. We are more focused on customers who are looking to achieve X goals and ready to invest more aggressively. However, I would strongly recommend you invest in implementing a Y plan. Here is a link to the service I recommend: [link]. Let me know if you invest in that service and whether it helps you, or if you do something else. The feedback helps me make the best recommendations in the future.Also, let me know if I can ever help in the future. If you do know any Z organizations that might be a better fit for our service, please don't hesitate to refer them. I'll do my best to help them too.Regards,[Your name]
+
+You: a first conversation
+Robo:
+Hey [Prospect],Per our conversation, I do not think you are a fit for our services at this time. We are more focused on customers who are looking to achieve X goals and ready to invest more aggressively. However, I would strongly recommend you invest in implementing a Y plan. Here is a link to the service I recommend: [link]. Let me know if you invest in that service and whether it helps you, or if you do something else. The feedback helps me make the best recommendations in the future.Also, let me know if I can ever help in the future. If you do know any Z organizations that might be a better fit for our service, please don't hesitate to refer them. I'll do my best to help them too.Regards,[Your name]
+
+You:email to  a first conversation
+Robo:
+Hi [Prospect],
+I really enjoyed our phone conversation [or meeting] earlier today and especially liked learning about your unique role at [company]. I understand the challenges you are facing with [challenges discussed] and the impact they are having on [insert personal impact].
+As promised, I have attached [or linked to] the resources and materials that can help you better understand how we can help you solve [insert compelling reason to buy].
+Please let me know if you have any questions. Otherwise, I look forward to talking with you again on [date and time].
+[Signature line]
+[Salesperson]
+
+You:follow up email
+Robo:
+Sorry for the slow response! It's nice to meet you, and thanks for getting in touch. :) Right now, my digital marketing budgets are already committed for the year but I will definitely keep Grapevine in mind should anything open up.
+Enjoy the rest of your Thursday! xx
+
+You:referral from a loyal customer
+Robo:
+Hello [Customer name],
+I'm so glad to hear you're happy with the results of working with [Your company name] so far. I knew we could help, and I'm pleased you're seeing results so quickly.
+Since things are going so well, I found myself wondering if you have any colleagues at similar companies who would benefit from our [product/service]. I would love to help them achieve similar growth.
+Regards,
+[Your name]
+
+You: thank you email template
+Robo:
+Hello [Client],
+I hope you’re settling into your new house and that it’s starting to feel like home for you and [family member/pet names].
+I wanted to say thanks for choosing me as your Realtor. It was a pleasure working with you, and I’m honored you allowed me to help you during this important process.
+If I can answer any questions over the next few weeks and months, please don’t hesitate to reach out. I know you’ll get a lot of junk mail -- including misleading letters about your loan -- and I’m always happy to help sort real from fake!
+Happy nesting,
+[Your name]
+
+You:demo recap
+Robo:
+Hi Chandler,
+Thanks for taking a look under the hood with me today. Our sustainability consulting service seems like a good fit for Hugh Apparel. Here are the main solutions we discussed:
+
+We’ll help you go carbon-neutral, which our research shows 87% of your customers care about
+We’ll put together a sustainability report highlighting areas of improvement in your environmental policies
+We’ll audit your waste to find areas of cost savings
+
+You mentioned you’ll need to discuss this with your boss, so I’m attaching the following resources: A case study from Joe Threads, another company in the online men’s retail space, and some testimonials from current customers.
+The next step is discussing a timeline for getting started. Please let me know if you have any questions. If not, I’ll talk to you on Wednesday at 4:15 p.m.
+Best,Monica
+
+You:follow up on a project
+Robo:
+Hi [First Name],
+I wanted to follow up with you to see if you have any feedback on the design comps I sent over late last week. Please let me know if you have any suggestions/questions or inform me of your approval of one of the designs.
+To meet the requested launch day of [Date], we will need at least [# of Days or Weeks] for development and testing. If I don’t receive your approval by [Date], we’ll have to push back beginning on Phase II of the project, which will impact the final delivery date.
+I’ll follow up by phone if I don’t hear from you by tomorrow morning.
+Thanks,
+
+You:suggestions for saving time
+Robo:
+Hi [prospect],
+Hopefully, you remembered to show up to work an hour earlier today. Losing 60 minutes of sleep is never fun, but I do have a few suggestions for [saving time with X, boosting your efficiency at Y, reducing the time to do Z] that could make up (and more) for your lost time.
+Would you be interested in hearing them?
+Cheers,[Your name]
+
+You:for any questions
+Robo:
+Hi [Prospect name],
+I noticed you recently read several of our blog posts on [topic of interest]. I thought I'd help you continue down your rabbit hole of information by sharing a few other articles:
+
+[Blog Article 1]
+[Blog Article 2]
+[Blog Article 3]
+
+If you have any questions — or need more articles on the subject — I'd be happy to help.
+Regards,
+[Your name]
+
+You:need support
+Robo:
+Hi [prospect name],
+Fresh blooms aren’t the only things giving me allergies this year — salesy emails have been out of control lately. It looks like our previous conversation got lost in the shuffle and I wanted to reach out one more time.
+Do you still need support with [doing X, solving Y]? If so, I’m happy to help. You can book time on my calendar here: [Link to calendar]. If I don’t hear from you by next week, I’ll stay out of your inbox.
+Thanks,
+[Your name]
+
+You:improving business challenge
+Robo:
+Hi [Name],
+Thanks for taking the time to meet with me the other day. I haven't been able to stop thinking about [personal detail from the conversation].
+Anyway, based on our discussion about [pain point or business challenge], we can definitely help you [what they hope to achieve]. I spoke with the team, and they provided me with this extra info:
+[Additional resources, social proof, and/or information the client requested]
+Would you be able to hop on a call sometime this week to discuss more?
+Best,
+[Your Name]
+
+You:improving/addressing business challenge
+Robo:
+Hi [prospect name],
+The ball might've dropped in Times Square, but I'm guessing you don't want to drop the ball on [initiative, recent company announcement, industry shift, likely challenge].
+
+I have a few suggestions on [improving/addressing business challenge]. Are you free on [date and time] to discuss them?
+Best,[Your name]
+
+You:addressing business challenge
+Robo:
+Hi [Name],
+Thanks for taking the time to meet with me the other day. I haven't been able to stop thinking about [personal detail from the conversation].
+Anyway, based on our discussion about [pain point or business challenge], we can definitely help you [what they hope to achieve]. I spoke with the team, and they provided me with this extra info:
+[Additional resources, social proof, and/or information the client requested]
+Would you be able to hop on a call sometime this week to discuss more?
+Best,
+[Your Name]
+
+You:business challenge
+Robo:
+Hi [Name],
+Thanks for taking the time to meet with me the other day. I haven't been able to stop thinking about [personal detail from the conversation].
+Anyway, based on our discussion about [pain point or business challenge], we can definitely help you [what they hope to achieve]. I spoke with the team, and they provided me with this extra info:
+[Additional resources, social proof, and/or information the client requested]
+Would you be able to hop on a call sometime this week to discuss more?
+Best,
+[Your Name]
+
+You:addressing business challenge
+Robo:
+Hi [Name],
+Thanks for taking the time to meet with me the other day. I haven't been able to stop thinking about [personal detail from the conversation].
+Anyway, based on our discussion about [pain point or business challenge], we can definitely help you [what they hope to achieve]. I spoke with the team, and they provided me with this extra info:
+[Additional resources, social proof, and/or information the client requested]
+Would you be able to hop on a call sometime this week to discuss more?
+Best,
+[Your Name]
+
+You:not heard back
+Robo:
+Hi [prospect name],
+I've reached out to [prospect's company] a few times over the past [X months, year] but haven't heard back. What I talked about clearly didn't resonate. In honor of the new year, I'm refocusing on your needs.
+The companies I work with in [prospect's industry] of [prospect's size] typically struggle with these challenges:
+
+[Challenge #1]
+[Challenge #2]
+
+Are you experiencing either of these?
+Best,[Your name]
+
+You:perspective on the topic
+Robo:
+Hi [client],
+I revisited one of your older blog posts about [X subject] earlier today. I was impressed by how relevant, comprehensive, and compelling it still is. It really speaks to your understanding of [Y overarching topic].
+I was wondering if we could find some time to reconnect and see how your perspective on the topic has developed since the post was published.
+Best,
+[Your name]
+
+You:reach out about specific shifts'
+Robo:
+Hi [Prospect],
+As I've gotten to know [their company] better, I've come to believe that our aligns well with both your company's immediate needs and ultimate goals.
+We can offer [types of solutions] that will allow you to solve [specific problems they're facing]. We use different tactics than our competitors, including [differentiators from other companies in your space].
+We've consistently been recognized for our exceptional outcomes and service, like [specific accomplishments you can reference]. We were able to help one of our customers [reference a specific, relevant customer story].
+Given how well our [product or service] suits your needs, I think we could do some great work together.
+[Engaging question to wrap things up]?
+Best,
+[Your Name]
+
+You:reach out about specific shifts  industry exapmle
+Robo:
+Hi [Prospect],
+As I've gotten to know [their company] better, I've come to believe that our aligns well with both your company's immediate needs and ultimate goals.
+We can offer [types of solutions] that will allow you to solve [specific problems they're facing]. We use different tactics than our competitors, including [differentiators from other companies in your space].
+We've consistently been recognized for our exceptional outcomes and service, like [specific accomplishments you can reference]. We were able to help one of our customers [reference a specific, relevant customer story].
+Given how well our [product or service] suits your needs, I think we could do some great work together.
+[Engaging question to wrap things up]?
+Best,
+[Your Name]
+
+You:new challenges in their industry exapmle
+Robo:
+Hi Andy,
+It’s been a while since we’ve talked. There have been some big shifts and shake ups in cybersecurity since we last spoke — particularly CCPA finally going into effect. I think it would be great if we could find some time to discuss what this means for smaller cybersecurity consulting firms like yours and the industry as a whole.
+I’ve attached a link to my calendar. Let me know a good time for us to hop on a call. 
+Best,
+[Your name]
+
+You:reach out about specific shifts or new challenges in their industry exapmle
+Robo:
+Hi Andy,
+It’s been a while since we’ve talked. There have been some big shifts and shake ups in cybersecurity since we last spoke — particularly CCPA finally going into effect. I think it would be great if we could find some time to discuss what this means for smaller cybersecurity consulting firms like yours and the industry as a whole.
+I’ve attached a link to my calendar. Let me know a good time for us to hop on a call. 
+Best,
+[Your name]
+
+You:reach out about specific shifts or new challenges
+Robo:
+Hi [client],
+It’s been a while since we’ve talked. There have been some big shifts and shake ups in [X industry] since we last spoke, [including Y event]. I think it would be great if we could find some time to discuss how [X industry/their business is changing].
+I’ve attached a link to my calendar. Let me know a good time for us to hop on a call.  
+Best,
+[Your name]
+
+You:reach out about specific shifts 
+Robo:
+Hi [Prospect],
+As I've gotten to know [their company] better, I've come to believe that our aligns well with both your company's immediate needs and ultimate goals.
+We can offer [types of solutions] that will allow you to solve [specific problems they're facing]. We use different tactics than our competitors, including [differentiators from other companies in your space].
+We've consistently been recognized for our exceptional outcomes and service, like [specific accomplishments you can reference]. We were able to help one of our customers [reference a specific, relevant customer story].
+Given how well our [product or service] suits your needs, I think we could do some great work together.
+[Engaging question to wrap things up]?
+Best,
+[Your Name]
+
+You:reach out about specific shifts or
+Robo:
+Hi [client],
+It’s been a while since we’ve talked. There have been some big shifts and shake ups in [X industry] since we last spoke, [including Y event]. I think it would be great if we could find some time to discuss how [X industry/their business is changing].
+I’ve attached a link to my calendar. Let me know a good time for us to hop on a call.  
+Best,
+[Your name]
+
+You:c-level executive
+Robo:
+Hi [prospect],
+Congratulations on your new role at [new company]. At your old company you made [X innovative move] that really helped [Y metric]. When I previously spoke with someone at your company, they were doing things [X way] — how are you thinking about this strategy?
+Best,
+[Your name]
+
+You:appointment scheduling
+Robo:
+Hello [Assistant name],
+I need the following health appointments scheduled this month, located within [number] miles of [address].
+
+[First appointment] (ex. vision, chiropractic, dental, doctor, etc.)
+[Second appointment]
+[Third appointment]
+
+Here are the dates and times I’m available:
+
+March 9-11, 13, 16-17, 19-20
+7 a.m. - 10 a.m., 3 p.m. - 7 p.m. (EST)
+
+I don’t have these healthcare providers established yet, so I’ll need someone who covers my insurance. Please use the following steps to find a doctor who accepts my coverage:
+
+Look up doctors www.findadoctor.bluecrossma.com who accept my insurance - [insert insurance provider].
+After you find doctor’s through that website, look at Yelp.com for doctors who have at least 3 ratings at 3.5 star or above.
+Schedule an appointment with doctors who are available for those dates.
+Put the appointment on my calendar and send me an email to confirm the details.
+
+Thank you, [Your name]
+
+You:for procrastinators 
+Robo:
+… Hey, no one can accuse them of not being ready for Q4.
+It might feel too early to start planning for [upcoming year], but the way you kick off in January sets the tone for the rest of the year.
+As you’re thinking about goals, milestones, and the tools it will take to achieve them, I hope you’ll consider [company name]. We’ve helped businesses like [customer #1] and [customer #2] excel at [result], and I already have a few ideas about how we can help [prospect’s company].
+If you’re interested in hearing what I’ve put together, you can book some time on my calendar here: [Link to Meetings tool.]
+Here’s hoping your neighbor’s giant blow-up skeleton comes down as early as it went up.
+[Your name]
+
+You:personal apology email
+Robo:
+Dear [Customer Name],
+I'm so sorry that I gave you an invalid solution to your software malfunction. I take full responsibility for my actions and deeply regret the inconvenience that it must have caused you.
+I misunderstood the issue you were having when we were speaking on the phone, and that's why I ended up giving you a solution that was incorrect. That's no excuse, and I apologize for my unguided actions. In the future, I will be sure to ask several questions of my customers to fully understand the situation before offering a solution.
+I hope you can forgive me and that we can continue to work together if you have any more support needs.
+Let me know if you have any questions, comments, or concerns.
+Best,
+[Your name]
+
+You:'we’re all set
+Robo:
+Hi [Prospect name],
+I hope you're having a great week so far! I saw that [Prospect's company] launched a new product this week, congratulations! How was that experience for your team?
+Hope all is well!
+Cheers,[Your name]
+
+You:'we’re all set'
+Robo:
+Hi [Prospect name],
+I hope you're having a great week so far! I saw that [Prospect's company] launched a new product this week, congratulations! How was that experience for your team?
+Hope all is well!
+Cheers,[Your name]
+
+You:response to 'we’re all set'
+Robo:
+Hi [prospect name],
+The sun is shining, the birds are singing, and you know exactly how to [solve X likely pain point, respond to Y trigger event, hit Z objective]. Right?
+If you're still working on that last one -- which I know is a focus for many [description of company profile] right now -- I'd love to offer some of the strategies I've shared with [customer #1] and [customer #2]. My calendar is available here: [Meetings link]. I hope to speak with you soon!
+Cheers,
+[Your name]
+
+
+
+2021-07-09 18:08:38.298235
+You:happy holidays
+Robo:
+Hey [Prospect name],
+We've all gotten gifts we wish had never been placed on this earth. But this gift I have for you? It's not one of 'em.
+If you buy anytime between now and December 31, I can offer you [insert discount]. As simple as that!
+If you're interested in learning more, give me a call or schedule some time on my calendar.
+And if you'd rather go with Mona's sweater and get back to me after the first of the year -- that's OK too.
+Happy Holidays,
+[Your name]
+
+You:gifts
+Robo:
+Hey [Prospect name],
+We've all gotten gifts we wish had never been placed on this earth. But this gift I have for you? It's not one of 'em.
+If you buy anytime between now and December 31, I can offer you [insert discount]. As simple as that!
+If you're interested in learning more, give me a call or schedule some time on my calendar.
+And if you'd rather go with Mona's sweater and get back to me after the first of the year -- that's OK too.
+Happy Holidays,
+[Your name]
+
+You:advice
+Robo:
+Hi [prospect]
+You likely deal with [business pain], so I thought I’d share a quick tip many of my clients have found helpful: [1-2 sentence actionable piece of advice].
+I have a few more ideas around [improving X]. Let me know if you’re interested in hearing them.
+Best,
+[Your name]
+
+You:email from salespeople
+Robo:
+Hi Tom,
+I know you likely get a lot of email from salespeople trying to get through to your boss. I'm no different -- except that I want to earn the right to be passed along to Amber.
+My name is Liz, and I help companies like yours decrease hiring time by up to 25%. So, that marketing coordinator your team is currently hiring? I can get a top candidate in that role faster.
+Have I earned a few minutes with Amber? If so, feel free to book time on my calendar, here: [Insert calendar link]
+If not, I've got more up my sleeve.
+Regards,Liz Prater
+
+You:left a quick message
+Robo:
+Hi [First Name],
+Just left a quick message at the office for you. I chuckled a little bit when I got an automated email this morning from your predecessor, [NAME OF PREDECESSOR] who we worked with briefly, and before him, [OTHER FORMER COWORKER NAME], who we worked with as well ...
+First and foremost, congrats on coming into this new role! I'm sure you've got a lot going on - so this conversation might be timely or not. If you're stressed, this is my go-to.
+My role here is working with businesses (in the area) on how they can effectively and efficiently drive more traffic to their website, increase conversions, and nurture leads into customers.
+How has your first month kicked off so far?
+- [Your Name]
+
+You:tendency to slip
+Robo:
+Hi [prospect name],
+Following up on my previous email, as they have a tendency to slip through the cracks. At the very least, I wanted to provide you with the top resources that your peers at other [prospect's industry] companies found helpful:
+
+[Helpful link]
+[Case study]
+
+Would it be helpful if we scheduled 15-20 minutes to discuss how some of these topics may align with [prospect company's] strategy? Just book some time on my calendar here:
+[Meetings link]
+[Your name]
+
+You:company published
+Robo:
+Hey [prospect name],
+I saw the [content medium] your company published about [subject].
+I was impressed by how you managed to make such complex subject matter accessible without sacrificing thoroughness. [Reference to what they do].
+I have experience at [helping companies with relevant assistance]. Would you be interested in chatting for twenty minutes this week?
+Thanks,
+[Your name]
+
+You:congraas
+Robo:
+Hey [Prospect name],
+We've all gotten gifts we wish had never been placed on this earth. But this gift I have for you? It's not one of 'em.
+If you buy anytime between now and December 31, I can offer you [insert discount]. As simple as that!
+If you're interested in learning more, give me a call or schedule some time on my calendar.
+And if you'd rather go with Mona's sweater and get back to me after the first of the year -- that's OK too.
+Happy Holidays,
+[Your name]
+
+You:customer satisfaction
+Robo:
+[Customer],
+I am so sorry to hear that you have had such a poor experience that you no longer want to work with us.
+Customer satisfaction is always a number one priority for us. I'm deeply sorry that that wasn't clearly demonstrated to you.
+As much as I hate to see you go, I completely understand how upset you must feel. I apologize again for any trouble we may have caused you. Good luck with your business, and I wish you all the best.
+Let me know if you have any more questions, comments, or concerns.
+Best,
+[Your name]
+
+You:great week
+Robo:
+Hi [Customer],
+I hope you're having a great week so far! I saw you've started [details about how they're using your product] — it looks like you've achieved some impressive [details of the results they've achieved]. How are you enjoying working with the tool?
+If you have any feedback or questions, don't hesitate to give me a call or shoot me an email, and I'll help you out!
+If you'd like to share your experience using [Your company's tool], here are our pages on [review site] and [review site], where you can give us a rating and share your feedback to help other customers like you.
+Thanks for your time, and give me a call if you have any questions!
+[Your name]
+
